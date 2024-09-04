@@ -13,6 +13,13 @@ Este proyecto busca identificar las regiones en Estados Unidos con la mayor cant
 - Evaluar las razones detrás de las variaciones en la esperanza de vida entre los condados de EE.UU.
 
 
+## Preguntas Clave
+
+- ¿Qué características tienen los condados con alta esperanza de vida?
+- ¿Cómo influyen los factores económicos, sociales y de salud en la longevidad?
+- ¿Existen patrones geográficos o demográficos relacionados con la longevidad?
+
+
 
 ### Bibliografía 
 [National Library of Medicine](https://www.ncbi.nlm.nih.gov/books/NBK298903)
